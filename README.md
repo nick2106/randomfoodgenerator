@@ -8,4 +8,4 @@ This app selects a food from a predefined list on a click of a button.
 <li>Navigate to url: <code>http://localhost:3000</code></li>
 
 ### Screenshot
-<img width="357" alt="final website" src="https://user-images.githubusercontent.com/14084402/227881663-92e140db-8065-44a5-9eb4-643aaf3b7ae7.png">
+<img width="321" alt="final website" src="https://user-images.githubusercontent.com/14084402/227903964-1d60bee1-8074-446c-9998-b4afef5ae1ab.png">
