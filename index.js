@@ -19,6 +19,6 @@ app.use('/', (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`Random food selector application on port ${port}`);
+  console.log(`Random food selector application is running on port ${port}`);
   console.log("Data Loaded", data[0]); // to check if data is loaded
 });
